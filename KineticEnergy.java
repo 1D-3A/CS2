@@ -1,4 +1,3 @@
-package CS2;
 import java.util.*;
 public class KineticEnergy {
     public static double kineticEnergy(double m, double v) {

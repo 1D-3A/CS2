@@ -1,5 +1,3 @@
-package CS2;
-
 public class Person {
     private String localName;
     private int localAge;

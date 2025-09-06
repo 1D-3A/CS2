@@ -1,4 +1,3 @@
-package CS2;
 import java.util.*;
 public class FutureValue {
     public static double futureValue(double P, double i, double t) {

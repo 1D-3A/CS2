@@ -1,4 +1,3 @@
-package CS2;
 public class CelsiusTemperatureTable {
     public static double celsius(double f) {
         double c = (5.0 / 9.0) * (f - 32);

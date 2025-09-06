@@ -2,7 +2,6 @@
 // September 2nd, 2025
 // Box Office Calculation
 
-package CS2;
 import java.util.*;
 public class BoxOffice {
     Scanner scanner = new Scanner(System.in);

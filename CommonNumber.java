@@ -1,4 +1,3 @@
-package CS2;
 public class CommonNumber {
     public static void main(String[] args) {
         int[] array1 = {1, 3, 5, 7, 9};

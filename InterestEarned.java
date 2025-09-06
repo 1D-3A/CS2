@@ -2,7 +2,6 @@
 // September 2nd, 2025
 // Interest Calculator
 
-package CS2;
 import java.util.*;
 public class InterestEarned {
     public static void main(String[] args) {
